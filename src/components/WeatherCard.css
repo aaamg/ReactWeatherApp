@@ -1,0 +1,9 @@
+.cardcold {
+  background-image: url("../assets/rainglass.jpg");
+  border: 1px solid blue;
+}
+
+.cardwarm {
+  background-image: url("../assets/warmday.jpg");
+  border: 1px solid red;
+}
